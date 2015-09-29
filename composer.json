@@ -1,0 +1,13 @@
+{
+	"name" : "tobi-pb/TelefonKeinPflichtfeld",
+	"type" : "magento-module",
+	"description" : "Telefon kein Pflichtfeld",
+	"homepage" : "https://github.com/tobi-pb/TelefonKeinPflichtfeld",
+	"require" : {
+		"magento-hackathon/magento-composer-installer" : "~2.1.1"
+	},
+	"authors" : [{
+			"name" : "tobi-pb"
+		}
+	]
+}
